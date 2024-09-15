@@ -1,6 +1,0 @@
-github
-https://github.com/uliba3/independentStudey
-
-sentence-transformers
-https://www.sbert.net/index.html
-
